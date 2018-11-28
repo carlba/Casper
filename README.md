@@ -7,6 +7,9 @@ The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the la
 
 * Tweaked the theme using [Customizing Ghost](https://blog.tylerbuchea.com/customizing-ghost)
 * Added [Disqus integration](https://docs.ghost.org/integrations/disqus)
+* Prism integration
+  * Download the latest [Prism bundle](https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+c+cpp+git+markdown+lua+makefile+python+yaml+vim&plugins=line-numbers+toolbar+copy-to-clipboard)
+    
 
 &nbsp;
 
