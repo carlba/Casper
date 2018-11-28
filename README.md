@@ -2,6 +2,12 @@
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
 
+
+# Extensions
+
+* Tweaked the theme using [Customizing Ghost](https://blog.tylerbuchea.com/customizing-ghost)
+* Added [Disqus integration](https://docs.ghost.org/integrations/disqus)
+
 &nbsp;
 
 ![screenshot-desktop](https://user-images.githubusercontent.com/120485/27221326-1e31d326-5280-11e7-866d-82d550a7683b.jpg)
