@@ -4,6 +4,12 @@ into the {body} of the default.hbs template --}}
 
 {{!-- The big featured header, it uses blog cover image as a BG if available --}}
 <header class="site-header outer">
+    <!-- ghostHunter Search -->
+    <form>
+        <input id="search-field"/>
+        <input type="submit" value="search">
+    </form>
+    <section id="results"></section>
     <div class="inner">
         {{> "site-nav"}}
     </div>

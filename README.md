@@ -10,6 +10,7 @@ The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the la
 * Prism integration
   * Download the latest [Prism bundle](https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+c+cpp+git+markdown+lua+makefile+python+yaml+vim&plugins=line-numbers+toolbar+copy-to-clipboard)
 * Added [ghostHunter](https://github.com/jamalneufeld/ghostHunter)
+  * Based on https://bironthemes.com/blog/how-to-add-search-to-ghost-using-ghosthunter
     
 
 &nbsp;
